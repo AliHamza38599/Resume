@@ -14,7 +14,7 @@ import mn from "../app/images/mn.jpg"
             <h2 style={{ fontSize: "1.5em", fontWeight: "bold" }}>Hamza Ali</h2>
             <p style={{ fontSize: "1em" }}>Civil Engineer</p>
             <p style={{ fontSize: "0.9em", margin: "5px 0" }}>+92 3039103207</p>
-            <p style={{ fontSize: "0.9em", margin: "5px 0" }}>hengieer41@gmail.com</p>
+            <p style={{ fontSize: "0.9em", margin: "5px 0" }}>hengineer41@gmail.com</p>
             <p style={{ fontSize: "0.9em", margin: "5px 0" }}>Karachi, Pakistan</p>
           </div>
         </div>
